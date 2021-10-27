@@ -1,8 +1,8 @@
 ---
 layout: page
 title: people
-permalink: /projects/
-description: A growing collection of your cool projects.
+permalink: /people/
+description:
 nav: true
 display_categories: [current, past]
 horizontal: false
