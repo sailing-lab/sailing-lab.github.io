@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bowen Tan
-description:
+description: PhD Student
 img: http://bowentan.bitcron.com/img/bowentan.jpg
 importance: 4
 category: current

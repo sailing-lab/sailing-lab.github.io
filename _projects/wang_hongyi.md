@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hongyi Wang
-description:
+description: Postdoctoral Fellow
 img: https://hwang595.github.io/images/profile.jpg
 importance: 4
 category: current

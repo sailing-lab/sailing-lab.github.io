@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lingjing Kong
-description:
+description: PhD Student
 img:
 importance: 3
 category: current
