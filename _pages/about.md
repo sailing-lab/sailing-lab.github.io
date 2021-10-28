@@ -24,3 +24,5 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 Welcome to the SAILING, at the School of Computer Science, Carnegie Mellon University. SAILING is a research laboratory created in 2004, and is headed by Professor Eric Xing.
 
 **Research synopsis**: Our principal research interests lie in the development of machine learning and statistical methodology, and large-scale computational system and architecture, for solving problems involving automated learning, reasoning, and decision-making in high-dimensional, multimodal, and dynamic possible worlds in artificial, biological, and social systems.
+
+*NOTE*: This site is still under construction. Please check back soon.
