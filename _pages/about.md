@@ -26,3 +26,6 @@ Welcome to the SAILING, at the School of Computer Science, Carnegie Mellon Unive
 **Research synopsis**: Our principal research interests lie in the development of machine learning and statistical methodology, and large-scale computational system and architecture, for solving problems involving automated learning, reasoning, and decision-making in high-dimensional, multimodal, and dynamic possible worlds in artificial, biological, and social systems.
 
 *NOTE*: This site is still under construction. Please check back soon.
+
+
+**Acknowledgements**: We are grateful to the following agencies/institutions for their contributions to our research: AFOSR, Alfred P. Sloan Foundation, Commonwealth of Pennsylvania, DARPA, Glaxo-Smith-Kline, IBM, National Geospatial-Intelligence Agency, National Institutes of Health, National Science Foundation, NIGMS, Office of Naval Research.
