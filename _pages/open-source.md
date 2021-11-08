@@ -1,7 +1,7 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: open-source
+permalink: /open-source/
 description: On June 11th, 2020, we launched the <a href="http://casl-project.ai/"><u>CASL</u></a> (Composible, Automatic, and Scable ML) open source consortium that brings our research and development at Petuum Inc. and CMU Sailing Lab on Distributed ML (e.g., AutoDist, AdaptDL), Automated ML (e.g., Dragonfly, ProBO), and Composable ML (e.g., Texar, Forte) implemented across PyTorch and TensorFlow under a unified umbrella for a Production and Industrial AI Platform.
 nav: true
 display_categories: [project]
