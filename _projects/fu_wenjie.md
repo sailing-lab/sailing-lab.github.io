@@ -4,6 +4,6 @@ title: Wenjie Fu
 description: (Now) Software Engineer, Facebook
 img: 
 importance: 12
-category: past
+category: alumni
 redirect: 
 ---
