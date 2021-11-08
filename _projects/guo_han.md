@@ -4,6 +4,6 @@ title: Han Guo
 description: PhD Student
 img: assets/img/hanguo.jpg
 importance: 4
-category: current
+category: core
 redirect: https://han-guo.info/
 ---

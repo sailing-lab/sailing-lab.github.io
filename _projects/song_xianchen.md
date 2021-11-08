@@ -4,6 +4,6 @@ title: Xiangchen Song
 description: PhD Student
 img: https://www.ml.cmu.edu/images/bio/students/song_xiangchen_cropped-min.jpg
 importance: 9
-category: current
+category: core
 redirect: https://xiangchensong.github.io/
 ---

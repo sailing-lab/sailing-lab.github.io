@@ -4,6 +4,6 @@ title: Zechun Liu
 description: Postdoctoral Fellow
 img: https://zechunliu.com/pictures/liuzechun.jpg
 importance: 7
-category: current
+category: core
 redirect: https://zechunliu.com/
 ---
