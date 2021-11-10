@@ -4,7 +4,7 @@ title: people
 permalink: /people/
 description:
 nav: true
-display_categories: [core, affiliate, alumni]
+display_categories: [current, affiliate, alumni]
 horizontal: false
 ---
 <div class="projects">

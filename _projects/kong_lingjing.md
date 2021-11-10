@@ -4,5 +4,5 @@ title: Lingjing Kong
 description: PhD Student
 img:
 importance: 5
-category: core
+category: current
 ---
