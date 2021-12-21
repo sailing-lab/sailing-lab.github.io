@@ -7,6 +7,7 @@ nav: true
 display_categories: [project]
 horizontal: false
 ---
+
 <b>SAILING Members:</b> If you want to add your open-source project to this page, please refer to the <a href="https://github.com/sailing-lab/sailing-lab.github.io/blob/main/docs/open-source.md">instruction</a>.
 
 <div class="projects">
