@@ -2,7 +2,7 @@
 layout: page
 title: Zhiqiang Shen
 description: Postdoctoral Fellow
-img: https://zhiqiangshen.com/me2.JPG
+img: /assets/img/zhiqiang_shen.jpeg
 importance: 8
 category: current
 redirect: https://zhiqiangshen.com/
