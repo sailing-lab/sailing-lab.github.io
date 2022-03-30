@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: Please see <a href="http://www.cs.cmu.edu/~epxing/publications-2021.html"><u>here</u></a> for publications before 2019.
-years: [2021, 2020, 2019]
+years: [2022, 2021, 2020, 2019]
 nav: true
 ---
 
