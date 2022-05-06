@@ -10,9 +10,9 @@ nav: true
 <!-- <b>SAILING Members:</b> If you want to add your publications to this page, please refer to the <a href="https://github.com/sailing-lab/sailing-lab.github.io/blob/main/docs/publications.md">instruction</a>. -->
 
 <div class="publications">
-<!-- <h2>Jump to: <a href="#preprints">preprints</a>, <a href="#publications">publications</a>, <a href="#dissertations">dissertations</a>.</h2>
+<!-- <h2>Jump to: <a href="#preprints">preprints</a>, <a href="#publications">publications</a>, <a href="#dissertations">dissertations</a>.</h2> -->
 
-<h1 class="year" id="preprints">preprints</h1>
+<!-- <h1 class="year" id="preprints">preprints</h1>
 {% bibliography -f preprints %}
 
 <h1 id="publications">publications</h1>
