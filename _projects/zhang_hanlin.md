@@ -4,6 +4,6 @@ title: Hanlin Zhang
 description: Master Student
 img: /assets/img/hanlin_zhang.jpeg
 importance: 2
-category: affiliate
+category: core
 redirect: https://hanlin-zhang.com/
 ---
