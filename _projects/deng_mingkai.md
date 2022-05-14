@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mingkai Deng
-description: Master Student
+description: PhD Student
 img: https://mingkaid.github.io/images/MingkaiDeng.jpg
 importance: 2
 category: current
