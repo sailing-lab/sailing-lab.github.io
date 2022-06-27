@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Zechun Liu
-description: Postdoctoral Fellow
-img: https://zechunliu.com/pictures/liuzechun.jpg
-importance: 1
-category: current
+description: (Now) Research Scientist, Meta Reality Labs
+img: https://zechunliu.com/pictures/1_photo.jpg
+importance: 12
+category: alumni
 redirect: https://zechunliu.com/
 ---
