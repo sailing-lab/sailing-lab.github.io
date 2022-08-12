@@ -2,8 +2,8 @@
 layout: page
 title: Caleb Ellington
 description: PhD Student
-img: https://calebellington.com/static/blog/media/headshot.jpg
+img: https://cnellington.github.io/assets/img/prof_pic-1400.webp
 importance: 1
 category: current
-redirect: https://calebellington.com/
+redirect: https://cnellington.github.io/
 ---
