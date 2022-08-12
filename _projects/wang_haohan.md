@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Haohan Wang
-description: Postdoctoral Fellow
+description: Assistant Professor, UIUC
 img: https://haohanwang.github.io/images/wang.jpg
-importance: 1
-category: current
+importance: 12
+category: alumni
 redirect: https://haohanwang.github.io/
 ---
