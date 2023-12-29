@@ -5,5 +5,5 @@ description: PhD Student
 img: /assets/img/aviv_bick.jpeg
 importance: 1
 category: current
-redirect: https://github.com/avivbick
+redirect: https://avivbick.github.io
 ---
