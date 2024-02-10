@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Hanlin Zhang
-description: Master Student
+description: (Now) Ph.D. Student, Harvard
 img: /assets/img/hanlin_zhang.jpeg
-importance: 1
-category: current
+importance: 12
+category: alumni
 redirect: https://hanlin-zhang.com/
 ---

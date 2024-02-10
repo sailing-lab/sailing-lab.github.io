@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Hao Zhang
-description: (Now) Postdoc, UC Berkeley
-img: https://people.eecs.berkeley.edu/~hao/files/Hao-Petuum.jpg
+description: (Now) Assistant Professor, UCSD
+img: https://cseweb.ucsd.edu/~haozhang/hao-2022.png
 importance: 12
 category: alumni
-redirect: https://www.cs.cmu.edu/~hzhang2/
+redirect: https://cseweb.ucsd.edu/~haozhang/
 ---

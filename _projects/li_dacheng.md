@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Dacheng Li
-description: Master Student
-img: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=OSTCgu4AAAAJ&citpid=1
-importance: 1
-category: current
-redirect: https://scholar.google.com/citations?user=OSTCgu4AAAAJ&hl=en
+description: (Now) Ph.D. Student, Berkeley
+img: https://dachengli1.github.io/photo.jpg
+importance: 12
+category: alumni
+redirect: https://dachengli1.github.io/
 ---

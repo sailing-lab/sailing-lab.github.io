@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Willie Neiswanger
-description: (Now) Postdoc, Stanford
+description: (Now) Assistant Professor, USC
 img: https://willieneis.github.io/img/me_garden.jpg
 importance: 12
 category: alumni

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Rulin Shao
-description: Master Student
-img:
-importance: 1
-category: current
-redirect: https://www.linkedin.com/in/rulin-shao-966435191/
+description: (Now) Ph.D. Student, UW
+img: https://rulinshao.github.io/selfie.jpg
+importance: 12
+category: alumni
+redirect: https://rulinshao.github.io/
 ---
