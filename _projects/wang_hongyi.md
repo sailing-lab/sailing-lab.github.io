@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Hongyi Wang
-description: Postdoctoral Fellow
+description: Assistant Professor, Rutgers
 img: https://hwang595.github.io/images/profile.jpg
-importance: 1
-category: current
+importance: 12
+category: alumni
 redirect: https://hwang595.github.io/
 ---

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Xuchen Gong
-description: Master Student
+description: Ph.D. Student, University of Chicago
 img: /assets/img/xuchen_gong.png
-importance: 1
-category: current
+importance: 12
+category: alumni
 redirect: https://www.linkedin.com/in/xuchen-gong/
 ---
