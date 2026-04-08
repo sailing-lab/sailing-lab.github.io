@@ -4,6 +4,6 @@ title: Aviv Bick
 description: PhD Student
 img: /assets/img/aviv_bick.jpeg
 importance: 1
-category: current
+category: current_cmu
 redirect: https://avivbick.github.io
 ---

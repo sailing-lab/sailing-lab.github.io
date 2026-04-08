@@ -4,6 +4,6 @@ title: Lingjing Kong
 description: PhD Student
 img: /assets/img/lingjing_kong.jpg
 importance: 1
-category: current
+category: current_cmu
 redirect: https://lingjing-kong.github.io/
 ---

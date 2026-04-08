@@ -4,6 +4,6 @@ title: Sazan Mahbub
 description: PhD Student
 img: assets/img/mahbub_sazan.jpg
 importance: 1
-category: current
+category: current_cmu
 redirect: https://sites.google.com/view/smahbub
 ---
