@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Zhiqiang Shen
-description: Assistant Professor at MBZUAI
+description: Assistant Professor, MBZUAI
 img: /assets/img/zhiqiang_shen.jpeg
-importance: 3
-category: faculty
+importance: 12
+category: alumni
 redirect: https://zhiqiangshen.com/
 ---

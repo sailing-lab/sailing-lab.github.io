@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Qirong Ho
-description: Assistant Professor at MBZUAI
+description: (Now) CTO, Petuum Inc; Assistant Professor at MBZUAI
 img: assets/img/qirong_ho.jpeg
-importance: 2
-category: faculty
+importance: 12
+category: alumni
 redirect: https://sites.google.com/site/hoqirong
 ---
