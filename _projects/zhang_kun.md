@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kun Zhang
-description: Professor
+description: Professor at CMU
 img: /assets/img/zhang_kun.jpg
 importance: 1
 category: faculty
